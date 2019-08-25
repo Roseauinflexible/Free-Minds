@@ -1,0 +1,19 @@
+html, 
+body {
+ background-color: #000000; 
+ font-family: arial, sans-serif; 
+ font-size: 150%;color: white;
+ margin:0;
+  padding:0;
+  background: url(Photos/sphereaccueil.png) no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */ 
+}
+
+img{
+    position: absolute; z-index: 1;
+    right: 35px;
+    bottom: 16px;
+}
+
+ 

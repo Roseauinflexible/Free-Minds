@@ -1,0 +1,33 @@
+
+
+#banner1{
+	display: block;
+	height: 50px;
+	width: 100%;
+font-family: Arial, sans-serif; 
+ font-size: 200%;
+}
+
+#banner2{
+	display: block;
+	height: 50px;
+	width: 100%;
+	font-family: Arial, sans-serif; 
+ font-size: 80%;color:white;
+}
+
+
+
+
+#contenu{
+	font-family: Arial, sans-serif; 
+ font-size: 140%; color : white;
+ text-align: justify;
+}
+
+
+img{
+    position: absolute;
+    right: 35px;
+    bottom: 16px;
+}

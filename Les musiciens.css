@@ -1,0 +1,55 @@
+html, body {
+ margin: 0;
+ padding: 0;
+ width: 1150px;
+ background-color: #000000; 
+ font-family: Arial, sans-serif; 
+ font-size: 100%;
+ margin: 0 0 0 20 ;
+ -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */}
+
+ #banner1{
+	margin: 50px;
+	display: block;
+	height: 40px;
+	width: 100%;
+	font-family: Arial, sans-serif; 
+ font-size: 400%;color:rgb(35, 255, 42);
+}
+
+
+#Menu{
+	width: 100;
+	position: relative;
+	
+}
+
+#Menu ul {
+	float: left;
+	height: 600px;
+	}
+
+#Menu ul li{
+	float: left;
+	list-style-type: none;
+	margin-left: 0px;
+	
+}
+
+#Menu ul li a{
+	display: inline-block;
+	background color: #000000;
+	font-family: Arial, sans-serif;
+	font-size: 300%;
+	color: black;
+	height: 20px;
+	width: 800px;
+	text-decoration: none;
+	padding: 20px;
+}
+img{
+    position: absolute;
+    right: 35px;
+    bottom: 16px;
+}

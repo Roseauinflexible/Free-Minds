@@ -1,0 +1,44 @@
+ body{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 700px;
+	height: 100px;
+	margin: 50px;
+	font-family: georgia, serif;
+	font-size: 60px;
+	font-weight: bold;
+	color: black;
+}
+
+section{
+	position: absolute;
+	top: 200px;
+	left: 40px;
+	height: 400px;
+	width: 1200px;
+}
+
+.gallerie{
+	margin: 10px 15px;
+}
+
+.gallerie img{
+	transition: 1s;
+	position: 15px;
+	width: 200px;
+}
+
+.gallerie img:hover{
+	filter: grayscale(100%); 
+}
+
+#bouton
+{
+	position: absolute; right: 35px; bottom: 0px;
+}

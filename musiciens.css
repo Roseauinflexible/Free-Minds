@@ -1,0 +1,23 @@
+html, 
+
+body {
+margin-top: 100px;
+margin-right: 100px;
+margin-bottom: 100px;
+margin-left: 100px;
+}
+body {
+ background-color: #000000; 
+ font-family: Arial, sans-serif; 
+ font-size: 150%;color: rgb(35, 255, 42);
+ background-image: url("Fond.gif");
+ background-repeat: no-repeat;
+ background-attachment: scroll;
+}
+#Olivier{margin-left: 300
+	}
+	img{
+    position: absolute;
+    right: 35px;
+    bottom: 16px;
+}

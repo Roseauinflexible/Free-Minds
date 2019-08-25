@@ -1,0 +1,58 @@
+html, body {
+    margin: 0;
+ padding: 0;
+ width: 1150px;
+ background-color: #000000; 
+ font-family: Arial, sans-serif; 
+ font-size: 100%;color:rgb(35, 255, 42);
+ margin: 0 0 0 20;
+ -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */}
+
+
+#banner1{
+	margin: 15px;
+	display: block;
+	height: 50px;
+	width: 100%;
+font-family: Arial, sans-serif; 
+ font-size: 200%;color:rgb(35, 255, 42);
+}
+
+#banner2{
+	margin: 15px;
+	display: block;
+	height: 50px;
+	width: 100%;
+	font-family: Arial, sans-serif; 
+ font-size: 80%;color:white;
+}
+
+
+img.alignLeft{
+	float: left;
+	margin-right: 10px;
+}
+
+#contenu{
+	margin: 15px;
+	font-family: Arial, sans-serif; 
+ font-size: 140%; color : black;
+ text-align: justify;
+}
+
+
+#footer{
+	position: fixed;
+	bottom: 5px;
+	left: 500px;
+	color: rgb(35, 255, 42);
+	display: block;
+	height: 50px;
+	}
+
+#bouton{
+    position: absolute;
+    right: 35px;
+    bottom: 16px;
+}

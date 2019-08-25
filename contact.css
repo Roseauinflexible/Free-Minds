@@ -1,0 +1,13 @@
+html,
+body {
+ background-color: #000000; 
+ font-family: Arial, sans-serif; 
+ font-size: 150%;color: rgb(35, 255, 42);
+ background: url(FondOK.gif) no-repeat center fixed;
+ -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+ background-size: cover; /* version standardisée */}
+img{
+    position: absolute;
+    right: 35px;
+    bottom: 16px;
+}

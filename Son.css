@@ -1,0 +1,40 @@
+
+ #banner1{
+ 	margin: 30px;
+	display: block;
+	height: 80px;
+	width: 100%;
+	font-family: Arial, sans-serif; 
+ font-size: 400%;color:black;
+}
+
+#Menu{
+	left: 20px;
+	height: 600px;
+	font-family: Arial, sans-serif;
+	font-size: 100%; 
+	color: black;
+	top: 20px;
+	}
+
+.musique{
+	width: 400px;
+	position: relative;
+	float: left;
+	left: 30px;
+}
+
+#footer{
+	position: fixed;
+	bottom: 5px;
+	left: 500px;
+	color: rgb(35, 255, 42);
+	display: block;
+	height: 50px;
+	}
+
+img{
+    position: absolute;
+    right: 35px;
+    bottom: 16px;
+}

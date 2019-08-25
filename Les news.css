@@ -1,0 +1,45 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 700px;
+	height: 100px;
+	margin: 50px;
+	font-family: georgia, serif;
+	font-size: 60px;
+	font-weight: bold;
+	color: black;
+}
+
+section{
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	height: 400px;
+	width: 1000px;
+}
+
+article{
+	margin: 20px;
+	padding: 20px;
+	border: 1px;
+	max-height: 150px;
+	overflow: auto;
+	background-color: rgba(117, 190, 218, 0.7);
+	text-align: justify;
+}
+
+p{
+	font-family: Arial, sans-serif; 
+ 	font-size: 120%;color:black;
+}
+footer{position: fixed;
+bottom: 15px;
+left: 1150px;
+}

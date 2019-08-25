@@ -1,0 +1,28 @@
+
+
+ #banner1{
+	text-align: center;
+	display: block;
+	height: 100px;
+	width: 100%;
+}
+
+#banner1 p{
+	font-family: Arial, sans-serif;
+	font-size: 300%; 
+	color: color:rgb(35, 255, 42);
+	top: 20px;
+}
+
+
+#Menu{
+	width: 100;
+	position: relative;
+}
+
+
+img{
+    position: absolute;
+    right: 35px;
+    bottom: 16px;
+}
